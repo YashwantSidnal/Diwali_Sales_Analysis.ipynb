@@ -25,6 +25,7 @@ Some of the key operations performed in this notebook include:
 - Data visualization (Bar-charts, Line plots, Pie-Chart)
 
 Conclusion:
+
 Married women aged 26-35 years from Uttar Pradesh, Maharashtra, and Karnataka, working in IT, Healthcare, and Aviation, are more likely to buy products from the Food, Clothing, and Electronics categories. 
 
 
